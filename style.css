@@ -1,0 +1,13 @@
+.card-img img{
+    height: 200px;
+    object-fit: cover;
+}
+img .portofolio{
+    height: 250px;
+    object-fit: cover;
+}
+#team .row .col-md-3 img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
